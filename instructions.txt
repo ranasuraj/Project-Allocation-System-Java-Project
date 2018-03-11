@@ -1,0 +1,7 @@
+instructions to run project
+1.import the project file in mysql from database folder.
+2.then check the password of mysql in connection file if the password is name then ok otherwise change password and username.
+project ready to use.
+
+thanks 
+regards Suraj Singh
